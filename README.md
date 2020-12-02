@@ -1,4 +1,4 @@
-# Agile Budget - Batch - Migration Tool
+Migration Tool
 
 ## Requirement
 * Node-js
